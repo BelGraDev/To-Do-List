@@ -1,0 +1,21 @@
+.addition-panel-invisible{
+    background-color: transparent;
+    padding-top: 25px;
+    padding-left:20px;
+    padding-right: 20px;
+    height: 150px;
+    width: 300px;
+    position:absolute;
+    top: 50%;
+    left:50%;
+    transform:translate(-50%, -50%);
+    display: grid;
+    grid-template-columns: 150px 150px;
+    place-items:left;
+    align-items: center;
+}
+.addition-panel{
+    background-color: white;
+    box-shadow: 1px 2px 5px 2px rgb(189, 189, 189);
+
+}

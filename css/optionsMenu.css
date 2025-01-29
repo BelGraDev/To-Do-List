@@ -1,0 +1,27 @@
+
+.options-button-visible{
+
+    width: 30%;
+    height: auto;
+    background-color: white;
+    padding: 5px 10px 20px 10px;
+    border: none;
+    position:absolute;
+    right: 0%;
+    top:5.5%;
+    border-radius: 20px;
+    box-shadow: 1px 2px 5px 2px rgb(189, 189, 189);
+
+}
+.delete-row{
+    cursor:pointer;
+}
+.delete-row:hover{
+    background-color: rgb(255, 239, 239);
+}
+.options-row{
+    cursor: pointer;
+}
+.options-row:hover{
+    background-color:  rgb(222, 252, 222);
+}

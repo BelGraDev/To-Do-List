@@ -1,0 +1,37 @@
+.add-header{
+    background-color: transparent;
+    border:none;
+    cursor: pointer;
+}
+.add-task{
+    margin-left: 65%;
+    width: 50px;
+    background-color: rgb(177, 241, 177);
+    border:none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    font-family:sans-serif;
+}
+.cancel-button{
+    width:60px;
+    padding-right: 5px;
+    background-color: transparent;
+    border: 1px solid rgb(143, 197, 143);
+    border-radius: 5px;
+    color: rgb(143, 197, 143);
+    cursor: pointer;
+    font-weight: bold;
+    font-family:sans-serif;
+    margin:3px;
+}
+.options-style{
+    background-color: transparent;
+    border: none;
+    height: 20px;
+    width: 20px;
+    border-radius: 20px;
+    font-size: larger;
+    font-family:'Courier New', Courier, monospace;
+    cursor:pointer;
+}
